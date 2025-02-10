@@ -57,4 +57,4 @@ To run the Food So application locally, follow these steps:
 
 ## Conclusion
 
-Food So is a comprehensive Vite.js-based web application that offers a delightful food ordering experience. With its intuitive user interface, responsive design, and a wide range of features, the application aims to cater to the needs of food enthusiasts and provide a seamless and enjoyable culinary journey.
+Food So is a comprehensive Vite.js-based web application that offers a delightful food ordering experience. With its intuitive user interface, responsive design, and a wide range of features, the application aims to cater to the needs of food enthusiasts and provide a seamless and enjoyable culinary journeys.
